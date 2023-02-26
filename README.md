@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is Jiayong Zhang, a researcher interested in X-ray imaging, computed tomography, machine learning, and programming.
 
 <!--
 **jiayongzhang/jiayongzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
